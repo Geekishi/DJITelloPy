@@ -2,7 +2,7 @@
 ## [中文文档 (Chinese version of this readme)](README_CN.md)
 
 DJI Tello drone python interface using the official [Tello SDK](https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf) and [Tello EDU SDK](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf). This library has the following features:
-
+x
 - implementation of all tello commands
 - easily retrieve a video stream
 - receive and parse state packets
